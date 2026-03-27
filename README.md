@@ -104,18 +104,6 @@ kashir = {
 
 <img width="55%" src="https://streak-stats.demolab.com/?user=Kashiruddinshaik&theme=tokyonight&hide_border=true&background=0D1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9" />
 
-<br/><br/>
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Kashiruddinshaik&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Kashiruddinshaik&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=4" />
 </div>
 
 ---
