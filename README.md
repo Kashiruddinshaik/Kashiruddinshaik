@@ -1,233 +1,152 @@
-<!-- ANIMATED HEADER BANNER -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,50:1a1a2e,100:16213e&height=220&section=header&text=Kashiruddin%20Shaik&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=55&stroke=00d4ff&strokeWidth=2&desc=Software%20Engineer%20%7C%20ML%20Builder%20%7C%20Data%20Scientist&descSize=17&descAlignY=75&descFontColor=ffffff" width="100%"/>
-</div>
 
-<!-- ANIMATED TYPING -->
-<div align="center">
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kashiruddin%20Shaik&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%2FML%20Researcher%20%7C%20Data%20Scientist&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=false&random=false&width=750&height=60&lines=🚀+Building+production+ML+systems;🧠+Reinforcement+Learning+%7C+Q-Learning;📊+From+raw+data+to+live+dashboards;⚡+Django+%7C+React+%7C+FastAPI+%7C+Python;🌍+Real+impact+through+intelligent+software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Machine+Learning+Engineer+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%9A%80;Reinforcement+Learning+Researcher+%F0%9F%A7%A0;Data+Scientist+%F0%9F%93%8A;Building+Intelligent+Systems+%E2%9C%A8" alt="Typing SVG" />
 </a>
-</div>
-
-<br/>
-
-<!-- SOCIAL BADGES ROW -->
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kashiruddin-shaik)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://kashiruddinshaik.github.io/Portfolio/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikkashiruddin@gmail.com)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kashiruddinshaik)
-<img src="https://komarev.com/ghpvc/?username=Kashiruddinshaik&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS"/>
-
-</div>
-
----
-
-<!-- ABOUT ME SECTION WITH GIF -->
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
-
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
-
-🎓 &nbsp;**MS Computer Science (STEM)** @ Clark University, Worcester MA
-
-🔬 &nbsp;Building **intelligent systems** — RL agents, ML pipelines, live dashboards
-
-💻 &nbsp;**Software Developer** @ Wellesley NorthEnd Pizza — production web platform
-
-🌱 &nbsp;Currently deep-diving into **Reinforcement Learning** research
-
-🎯 &nbsp;Passionate about turning complex ML ideas into **real, usable software**
-
-📍 &nbsp;Worcester, MA · Open to Relocate · **Available Now** 🟢
-
-⚡ &nbsp;Fun fact: My RL system literally **reduces CO₂ emissions** on real roads
 
 <br/><br/>
 
+<!-- Profile Views & Social Badges -->
+<img src="https://komarev.com/ghpvc/?username=Kashiruddinshaik&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
+&nbsp;
+<a href="https://linkedin.com/in/kashiruddin-shaik">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://kashiruddinshaik.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:shaikkashiruddin@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
 ---
 
-<!-- SKILLS SECTION -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> &nbsp; Tech Stack
+## 🧠 About Me
+
+```python
+kashir = {
+    "name"        : "Kashiruddin Shaik",
+    "location"    : "Worcester, MA, USA 📍",
+    "education"   : "MS Computer Science @ Clark University (STEM)",
+    "focus"       : ["Reinforcement Learning", "Machine Learning", "Full-Stack Dev"],
+    "currently"   : "Building ML systems & production web platforms",
+    "fun_fact"    : "I built a RL system that reduces real-world CO₂ emissions 🌱"
+}
+```
+
+---
+
+## 🚀 Featured Projects
 
 <div align="center">
 
-### 🧠 AI & Machine Learning
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn&theme=dark&perline=10"/>
+| 🌍 Project | 💡 Description | 🛠 Stack |
+|---|---|---|
+| [**Global Economic Dashboard**](https://economic-dashboard-bahf3zb69es2aliamubamr.streamlit.app) | Live GDP, inflation & unemployment tracker with Prophet forecasting | Python, Streamlit, Plotly, Prophet |
+| [**Adaptive Traffic Signal Control**](https://github.com/Kashiruddinshaik/TrafficControlAlgo) | Q-Learning RL system to optimize traffic signals & reduce CO₂ | Python, Q-Learning, HERE Maps API |
+| [**Churn Prediction System**](https://churn-prediction-6s4f.onrender.com/) | ML web app using XGBoost to predict telecom customer churn | XGBoost, Scikit-learn, Streamlit |
+| [**Restaurant Platform**](https://wellesleynorthendpizza.com) | Full-stack production website with dynamic menus & ordering | Django, JavaScript, HTML/CSS |
 
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+</div>
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+**ML & Data Science**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=xgboost&logoColor=white)
-![Prophet](https://img.shields.io/badge/Prophet-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### 🌐 Web & Backend
-<img src="https://skillicons.dev/icons?i=django,react,nodejs,fastapi,js,html,css&theme=dark&perline=10"/>
+**Tools & DevOps**
 
-### 🛠️ Tools & Data
-<img src="https://skillicons.dev/icons?i=git,github,postgres,mysql,vscode&theme=dark&perline=10"/>
-
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 </div>
 
 ---
 
-<!-- PROJECTS SECTION -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;Featured Projects
+## 📊 GitHub Stats
 
 <div align="center">
 
-<a href="https://economic-dashboard-bahf3zb69es2aliamubamr.streamlit.app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kashiruddinshaik&repo=economic-dashboard&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" />
-</a>
-<a href="https://github.com/Kashiruddinshaik/Churn-prediction-system">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kashiruddinshaik&repo=Churn-prediction-system&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" />
-</a>
+<img width="60%" src="https://github-stats-alpha.vercel.app/api?username=Kashiruddinshaik&cc=0d1117&tc=a78bfa&ic=a78bfa&bc=0d1117"/>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### 🌍 Global Economic Dashboard
-[![Live](https://img.shields.io/badge/▶%20LIVE%20APP-00C896?style=for-the-badge&logo=streamlit&logoColor=white)](https://economic-dashboard-bahf3zb69es2aliamubamr.streamlit.app)
-[![Code](https://img.shields.io/badge/SOURCE-grey?style=for-the-badge&logo=github)](https://github.com/kashiruddinshaik/economic-dashboard)
-
-Real-time GDP, inflation & unemployment across 50+ countries. Automated Prophet forecasting + GitHub Actions CI/CD pipeline.
-
-`Python` `Streamlit` `Prophet` `Plotly` `GitHub Actions`
-
-</td>
-<td align="center" width="50%">
-
-### 🚦 Adaptive Traffic RL Agent
-[![Code](https://img.shields.io/badge/SOURCE-grey?style=for-the-badge&logo=github)](https://github.com/Kashiruddinshaik/TrafficControlAlgo)
-
-Q-Learning agent optimizing real traffic signals using live HERE Maps geospatial data. Measurable CO₂ reduction impact.
-
-`Python` `Q-Learning` `RL` `HERE Maps API`
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### 📊 Churn Prediction System
-[![Live](https://img.shields.io/badge/▶%20LIVE%20DEMO-00C896?style=for-the-badge&logo=render&logoColor=white)](https://churn-prediction-6s4f.onrender.com/)
-[![Code](https://img.shields.io/badge/SOURCE-grey?style=for-the-badge&logo=github)](https://github.com/kashiruddinshaik/churn-prediction-system)
-
-XGBoost + Random Forest on real telecom data with GridSearchCV tuning. Deployed interactive Streamlit UI.
-
-`XGBoost` `Scikit-learn` `Streamlit` `GridSearchCV`
-
-</td>
-<td align="center" width="50%">
-
-### 🍕 Restaurant Web Platform
-[![Live](https://img.shields.io/badge/▶%20LIVE%20SITE-00C896?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wellesleynorthendpizza.com)
-
-Full production website — real customers, live ordering, seasonal campaign management. Built & maintained solo.
-
-`Django` `JavaScript` `HTML/CSS` `Python`
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- EXPERIENCE -->
-## 💼 &nbsp;Experience
-
-<div align="center">
-
-| | Role | Company | Period |
-|---|---|---|---|
-| 💻 | **Software Developer** | Wellesley NorthEnd Pizza INC | Aug 2025 – Present |
+<img width="55%" src="https://streak-stats.demolab.com/?user=Kashiruddinshaik&theme=tokyonight&hide_border=true&background=0D1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9"/>
 
 </div>
 
 ---
 
-<!-- CERTIFICATIONS -->
-## 🏅 &nbsp;Certifications
+## 🎓 Certifications
 
 <div align="center">
 
 <a href="https://coursera.org/share/f848e30def0e142b38c3085a48a45316">
-<img src="https://img.shields.io/badge/IBM-Data%20Science%20Professional-054ADA?style=for-the-badge&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IBM-Data_Science_Professional-054ADA?style=for-the-badge&logo=ibm&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://coursera.org/share/2d91b62c5f1511ece7384300570a7602">
-<img src="https://img.shields.io/badge/Google-Data%20Analyst%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google-Data_Analyst_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </a>
 
 <br/><br/>
 
 <a href="https://coursera.org/share/fa6ad91be29deea966d49f215b6be27f">
-<img src="https://img.shields.io/badge/Google-UX%20Design%20Professional-34A853?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google-UX_Design_Professional-34A853?style=for-the-badge&logo=google&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.hackerrank.com/certificates/bb3deccffd9e">
-<img src="https://img.shields.io/badge/HackerRank-Advanced%20SQL-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HackerRank-Advanced_SQL-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-<!-- GITHUB STATS -->
-## 📊 &nbsp;GitHub Analytics
+## 🐍 Contribution Activity
 
 <div align="center">
-
-<img height="180em" src="https://github-stats-alpha.vercel.app/api?username=Kashiruddinshaik&cc=0d1117&tc=00d4ff&ic=00d4ff&bc=0d1117"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=Kashiruddinshaik&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=ffffff&dates=aaaaaa" width="55%"/>
-
+<img src="https://raw.githubusercontent.com/Kashiruddinshaik/Kashiruddinshaik/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
 ---
 
-<!-- ACTIVITY GRAPH -->
-## 📈 &nbsp;Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kashiruddinshaik&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" width="95%"/>
-</div>
-
----
-
-<!-- SNAKE -->
-## 🐍 &nbsp;Watch My Contributions Get Devoured
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Kashiruddinshaik/Kashiruddinshaik/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-</div>
-
----
-
-<!-- FOOTER -->
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
-<br/><br/>
+*"The goal is to turn data into information, and information into insight."*
 
-**🟢 Available · Software Developer & ML Engineering Roles · Open to Relocate**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D0D0D&height=120&section=footer&text=Let's+Build+Something+Remarkable&fontSize=20&fontColor=00d4ff&animation=twinkling&fontAlignY=65"/>
+**⭐ Star my repos if you find them useful!**
 
 </div>
