@@ -174,9 +174,7 @@
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
 
-<br/><br/>
-
-**🟢 Available for Full-Time Software Developer & ML Engineering Roles**
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&text=Let's%20Build%20Something%20Together!&fontSize=22&fontColor=a78bfa&animation=twinkling&fontAlignY=70"/>
 
