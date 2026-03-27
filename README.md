@@ -37,7 +37,6 @@ kashir = {
     "location"    : "Worcester, MA, USA 📍",
     "education"   : "MS Computer Science @ Clark University (STEM)",
     "focus"       : ["Reinforcement Learning", "Machine Learning", "Full-Stack Dev"],
-    "goal"        : "PhD in AI/ML — Building intelligent systems that matter",
     "currently"   : "Developing ML research & open-source projects",
     "fun_fact"    : "I built a RL system that reduces real-world CO₂ emissions 🌱"
 }
