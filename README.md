@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Machine+Learning+Engineer+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%9A%80;Reinforcement+Learning+Researcher+%F0%9F%A7%A0;Data+Scientist+%F0%9F%93%8A;Building+Intelligent+Systems+%E2%9C%A8;PhD+Aspirant+in+AI%2FML+%F0%9F%8E%93" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <!-- Profile Views & Social Badges -->
 <img src="https://komarev.com/ghpvc/?username=Kashiruddinshaik&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
@@ -98,13 +98,12 @@ kashir = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kashiruddinshaik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashiruddinshaik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="165"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kashiruddinshaik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashiruddinshaik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Kashiruddinshaik&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" width="60%"/>
+<img width="55%" src="https://streak-stats.demolab.com/?user=Kashiruddinshaik&theme=tokyonight&hide_border=true&background=0D1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9" />
 
 </div>
 
@@ -113,7 +112,7 @@ kashir = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Kashiruddinshaik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Kashiruddinshaik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4" />
 </div>
 
 ---
@@ -122,12 +121,23 @@ kashir = {
 
 <div align="center">
 
-| 🏅 Certificate | 🏢 Issuer | 🔗 Verify |
-|---|---|---|
-| Data Science Professional | IBM | [✓ Validate](https://coursera.org/share/f848e30def0e142b38c3085a48a45316) |
-| Data Analyst Professional | Google | [✓ Validate](https://coursera.org/share/2d91b62c5f1511ece7384300570a7602) |
-| UX Design Professional | Google | [✓ Validate](https://coursera.org/share/fa6ad91be29deea966d49f215b6be27f) |
-| Advanced SQL | HackerRank | [✓ Validate](https://www.hackerrank.com/certificates/bb3deccffd9e) |
+<a href="https://coursera.org/share/f848e30def0e142b38c3085a48a45316">
+  <img src="https://img.shields.io/badge/IBM-Data_Science_Professional-054ADA?style=for-the-badge&logo=ibm&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://coursera.org/share/2d91b62c5f1511ece7384300570a7602">
+  <img src="https://img.shields.io/badge/Google-Data_Analyst_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<a href="https://coursera.org/share/fa6ad91be29deea966d49f215b6be27f">
+  <img src="https://img.shields.io/badge/Google-UX_Design_Professional-34A853?style=for-the-badge&logo=google&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.hackerrank.com/certificates/bb3deccffd9e">
+  <img src="https://img.shields.io/badge/HackerRank-Advanced_SQL-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
 
 </div>
 
