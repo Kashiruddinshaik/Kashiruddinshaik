@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:24243e,60:302b63,100:0f0c29&height=240&section=header&text=Hi%20There!%20I'm%20Kashir%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20ML%20Builder%20%E2%80%A2%20Data%20Scientist&descSize=20&descAlignY=60&descFontColor=a78bfa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:24243e,60:302b63,100:0f0c29&height=240&section=header&text=Hi%20There!%20I'm%20Kashir&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20ML%20Builder%20%E2%80%A2%20Data%20Scientist&descSize=20&descAlignY=60&descFontColor=a78bfa"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=55&lines=🤖+ML+Engineer+%7C+RL+Researcher;🚀+Full-Stack+Developer+%7C+Django+%7C+React;Data+Scientist+%7C+Forecasting+%7C+XGBoost;⚡+Building+Software+That+Actually+Ships;🌍+Real+Impact+Through+Intelligent+Systems" alt="Typing SVG"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=55&lines=ML+Engineer+%7C+RL+Researcher;Full-Stack+Developer+%7C+Django+%7C+React;Data+Scientist+%7C+Forecasting+%7C+XGBoost;Building+Software+That+Actually+Ships;Real+Impact+Through+Intelligent+Systems" alt="Typing SVG"/>
 
 <br/>
 
@@ -10,27 +10,27 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/🟢 Open to Work-Full--Time Roles-brightgreen?style=flat-square&labelColor=1a1a2e"/>&nbsp;<img src="https://img.shields.io/badge/📍 Location-Worcester%2C MA-7c3aed?style=flat-square&labelColor=1a1a2e"/>&nbsp;<img src="https://img.shields.io/badge/🎓 MS CS-Clark University-orange?style=flat-square&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Open%20to%20Work-Full--Time%20Roles-brightgreen?style=flat-square&labelColor=1a1a2e"/>&nbsp;<img src="https://img.shields.io/badge/Location-Worcester%2C%20MA-7c3aed?style=flat-square&labelColor=1a1a2e"/>&nbsp;<img src="https://img.shields.io/badge/MS%20CS-Clark%20University-orange?style=flat-square&labelColor=1a1a2e"/>
 
 </div>
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-###  About Me
+### About Me
 
 ```yaml
- Name    : Kashiruddin Shaik
- Based   : Worcester, MA · USA
- Degree  : MS Computer Science (STEM)
-             Clark University
- Role    : Software Developer
-             @ Wellesley NorthEnd Pizza INC
- Focus   : Reinforcement Learning
-             Machine Learning · Full-Stack
- Impact  : Built RL agent that cuts real
-             CO₂ emissions on live roads 🌱
- Passion : AI/ML research that ships
- Status  : Available · Let's talk!
+Name    : Kashiruddin Shaik
+Based   : Worcester, MA · USA
+Degree  : MS Computer Science (STEM)
+          Clark University
+Role    : Software Developer
+          @ Wellesley NorthEnd Pizza INC
+Focus   : Reinforcement Learning
+          Machine Learning · Full-Stack
+Impact  : Built RL agent that cuts real
+          CO2 emissions on live roads
+Passion : AI/ML research that ships
+Status  : Available · Let's talk!
 ```
 
 <br/><br/><br/><br/>
@@ -39,13 +39,13 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-##  Featured Projects
+## Featured Projects
 
 <div align="center">
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3> Global Economic Dashboard</h3>
+      <h3>Global Economic Dashboard</h3>
       <img src="https://img.shields.io/badge/LIVE-00C896?style=for-the-badge&logo=streamlit&logoColor=white"/>
       <p>Real-time GDP, inflation & unemployment for 50+ countries with <strong>Prophet AI forecasting</strong> & automated CI/CD pipeline</p>
       <p>
@@ -53,27 +53,27 @@
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
         <img src="https://img.shields.io/badge/Prophet-0467DF?style=flat-square&logo=meta&logoColor=white"/>
         <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
-        <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
       </p>
-      <a href="https://economic-dashboard-bahf3zb69es2aliamubamr.streamlit.app"><img src="https://img.shields.io/badge/▶ Live App-00C896?style=for-the-badge"/></a>
-      <a href="https://github.com/kashiruddinshaik/economic-dashboard"><img src="https://img.shields.io/badge/⌥ Source-333?style=for-the-badge&logo=github"/></a>
+      <a href="https://economic-dashboard-bahf3zb69es2aliamubamr.streamlit.app"><img src="https://img.shields.io/badge/Live%20App-00C896?style=for-the-badge"/></a>
+      <a href="https://github.com/kashiruddinshaik/economic-dashboard"><img src="https://img.shields.io/badge/Source-333?style=for-the-badge&logo=github"/></a>
     </td>
     <td align="center" width="50%">
-      <h3> Adaptive Traffic RL Agent</h3>
+      <h3>Adaptive Traffic RL Agent</h3>
       <img src="https://img.shields.io/badge/RESEARCH-7c3aed?style=for-the-badge&logo=openai&logoColor=white"/>
-      <p>Q-Learning agent dynamically optimizing real traffic signals using live HERE Maps geospatial data. Measurable <strong>CO₂ reduction</strong> on real roads</p>
+      <p>Q-Learning agent dynamically optimizing real traffic signals using live HERE Maps geospatial data. Measurable <strong>CO2 reduction</strong> on real roads</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Q--Learning-FF6B6B?style=flat-square&logo=openai&logoColor=white"/>
-        <img src="https://img.shields.io/badge/HERE Maps-00AFAA?style=flat-square&logo=here&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Reinforcement RL-7c3aed?style=flat-square"/>
+        <img src="https://img.shields.io/badge/HERE_Maps-00AFAA?style=flat-square&logo=here&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Reinforcement_RL-7c3aed?style=flat-square"/>
       </p>
-      <a href="https://github.com/Kashiruddinshaik/TrafficControlAlgo"><img src="https://img.shields.io/badge/⌥ Source-333?style=for-the-badge&logo=github"/></a>
+      <a href="https://github.com/Kashiruddinshaik/TrafficControlAlgo"><img src="https://img.shields.io/badge/Source-333?style=for-the-badge&logo=github"/></a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h3> Churn Prediction System</h3>
+      <h3>Churn Prediction System</h3>
       <img src="https://img.shields.io/badge/LIVE-00C896?style=for-the-badge&logo=render&logoColor=white"/>
       <p>Trained on real telecom data. <strong>XGBoost + Random Forest + GridSearchCV</strong> tuning with interactive Streamlit UI deployed live</p>
       <p>
@@ -82,11 +82,11 @@
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       </p>
-      <a href="https://churn-prediction-6s4f.onrender.com/"><img src="https://img.shields.io/badge/▶ Live Demo-00C896?style=for-the-badge"/></a>
-      <a href="https://github.com/kashiruddinshaik/churn-prediction-system"><img src="https://img.shields.io/badge/⌥ Source-333?style=for-the-badge&logo=github"/></a>
+      <a href="https://churn-prediction-6s4f.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-00C896?style=for-the-badge"/></a>
+      <a href="https://github.com/kashiruddinshaik/churn-prediction-system"><img src="https://img.shields.io/badge/Source-333?style=for-the-badge&logo=github"/></a>
     </td>
     <td align="center" width="50%">
-      <h3> Restaurant Web Platform</h3>
+      <h3>Restaurant Web Platform</h3>
       <img src="https://img.shields.io/badge/PRODUCTION-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white"/>
       <p>Full-stack production site with real customers — digital menus, ordering flow, seasonal campaigns. <strong>Built & maintained solo</strong></p>
       <p>
@@ -95,7 +95,7 @@
         <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       </p>
-      <a href="https://wellesleynorthendpizza.com"><img src="https://img.shields.io/badge/▶ Live Site-00C896?style=for-the-badge"/></a>
+      <a href="https://wellesleynorthendpizza.com"><img src="https://img.shields.io/badge/Live%20Site-00C896?style=for-the-badge"/></a>
     </td>
   </tr>
 </table>
@@ -105,7 +105,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-##  Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -113,7 +113,7 @@
 
 <br/><br/>
 
-** ML & Data Science**
+**ML & Data Science**
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=xgboost&logoColor=white)
@@ -122,7 +122,7 @@
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-**☁️ Tools & DevOps**
+**Tools & DevOps**
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -136,7 +136,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-##  GitHub Stats & Activity
+## GitHub Stats & Activity
 
 <div align="center">
 
@@ -149,7 +149,7 @@
 
 </div>
 
-##  Certifications
+## Certifications
 
 <div align="center">
 
@@ -161,7 +161,7 @@
 
 </div>
 
-##  Watch My Contributions Get Eaten
+## Contribution Activity
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Kashiruddinshaik/Kashiruddinshaik/output/github-contribution-grid-snake-dark.svg" width="90%"/>
