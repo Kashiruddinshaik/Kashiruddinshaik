@@ -98,7 +98,8 @@ kashir = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kashiruddinshaik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
+<img width="49%" src="https://github-stats-alpha.vercel.app/api?username=Kashiruddinshaik&cc=0d1117&tc=a78bfa&ic=a78bfa&bc=0d1117" />
+&nbsp;
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashiruddinshaik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
 
 <br/><br/>
@@ -112,7 +113,7 @@ kashir = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Kashiruddinshaik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=Kashiruddinshaik&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=4" />
 </div>
 
 ---
