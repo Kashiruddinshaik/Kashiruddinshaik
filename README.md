@@ -37,6 +37,7 @@ kashir = {
     "location"    : "Worcester, MA, USA 📍",
     "education"   : "MS Computer Science @ Clark University (STEM)",
     "focus"       : ["Reinforcement Learning", "Machine Learning", "Full-Stack Dev"],
+    "goal"        : "PhD in AI/ML — Building intelligent systems that matter",
     "currently"   : "Developing ML research & open-source projects",
     "fun_fact"    : "I built a RL system that reduces real-world CO₂ emissions 🌱"
 }
@@ -97,13 +98,13 @@ kashir = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kashiruddinshaik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kashiruddinshaik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashiruddinshaik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashiruddinshaik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kashiruddinshaik&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=Kashiruddinshaik&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" width="60%"/>
 
 </div>
 
@@ -112,7 +113,7 @@ kashir = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Kashiruddinshaik&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Kashiruddinshaik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
 </div>
 
 ---
@@ -121,10 +122,12 @@ kashir = {
 
 <div align="center">
 
-![IBM](https://img.shields.io/badge/IBM-Data_Science_Professional-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
-![Google](https://img.shields.io/badge/Google-Data_Analyst_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Google](https://img.shields.io/badge/Google-UX_Design_Professional-34A853?style=for-the-badge&logo=google&logoColor=white)
-![HackerRank](https://img.shields.io/badge/HackerRank-Advanced_SQL-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
+| 🏅 Certificate | 🏢 Issuer | 🔗 Verify |
+|---|---|---|
+| Data Science Professional | IBM | [✓ Validate](https://coursera.org/share/f848e30def0e142b38c3085a48a45316) |
+| Data Analyst Professional | Google | [✓ Validate](https://coursera.org/share/2d91b62c5f1511ece7384300570a7602) |
+| UX Design Professional | Google | [✓ Validate](https://coursera.org/share/fa6ad91be29deea966d49f215b6be27f) |
+| Advanced SQL | HackerRank | [✓ Validate](https://www.hackerrank.com/certificates/bb3deccffd9e) |
 
 </div>
 
