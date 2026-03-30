@@ -161,7 +161,7 @@ Status  : Available · Let's talk!
 
 </div>
 
-## Contribution Activity
+## Contribution Activit
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Kashiruddinshaik/Kashiruddinshaik/output/github-contribution-grid-snake-dark.svg" width="90%"/>
