@@ -23,13 +23,11 @@ Name    : Kashiruddin Shaik
 Based   : Worcester, MA · USA
 Degree  : MS Computer Science (STEM)
           Clark University
-Role    : Software Developer
-          @ Wellesley NorthEnd Pizza INC
 Focus   : Reinforcement Learning
           Machine Learning · Full-Stack
 Impact  : Built RL agent that cuts real
           CO2 emissions on live roads
-Passion : AI/ML research that ships
+Passion : AI/ML research
 Status  : Available · Let's talk!
 ```
 
