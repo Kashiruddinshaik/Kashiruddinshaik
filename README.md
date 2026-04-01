@@ -27,7 +27,7 @@ Focus   : Reinforcement Learning
           Machine Learning · Full-Stack
 Impact  : Built RL agent that cuts real
           CO2 emissions on live roads
-Passion : AI/ML research
+
 Status  : Available · Let's talk!
 ```
 
