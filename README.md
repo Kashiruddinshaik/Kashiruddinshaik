@@ -24,7 +24,7 @@ Based   : Worcester, MA · USA
 Degree  : MS Computer Science (STEM)
           Clark University
 Focus   : Reinforcement Learning
-          Machine Learning · Full-Stack
+          Machine Learning
 Impact  : Built RL agent that cuts real
           CO2 emissions on live roads
 
