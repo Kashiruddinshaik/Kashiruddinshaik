@@ -20,7 +20,7 @@
 
 ```yaml
 Name    : Kashiruddin Shaik
-Based   : Worcester, MA · USA
+Based   : Natick, MA · USA
 Degree  : MS Computer Science (STEM)
           Clark University
 Focus   : Machine Learning
