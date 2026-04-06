@@ -1,16 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:24243e,60:302b63,100:0f0c29&height=240&section=header&text=Hi%20There!%20I'm%20Kashir&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20ML%20Builder%20%E2%80%A2%20Data%20Scientist&descSize=20&descAlignY=60&descFontColor=a78bfa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:24243e,60:302b63,100:0f0c29&height=240&section=header&text=Hi%20There!%20I'm%20Kashir&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Healthcare%20AI%20%E2%80%A2%20ML%20Engineer&descSize=20&descAlignY=60&descFontColor=a78bfa"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=55&lines=ML+Engineer+%7C+RL+Researcher;Full-Stack+Developer+%7C+Django+%7C+React;Data+Scientist+%7C+Forecasting+%7C+XGBoost;Building+Software+That+Actually+Ships;Real+Impact+Through+Intelligent+Systems" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=55&lines=Healthcare+AI+%7C+Sepsis+Prediction+%7C+AUC+0.953;ML+Engineer+%7C+RL+Researcher+%7C+XGBoost;Full-Stack+Developer+%7C+Django+%7C+React;Data+Scientist+%7C+Forecasting+%7C+SHAP;Building+Software+That+Actually+Ships" alt="Typing SVG"/>
 
 <br/>
 
-<a href="https://linkedin.com/in/kashiruddin-shaik"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;<a href="https://kashiruddinshaik.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=A78BFA"/></a>&nbsp;<a href="mailto:shaikkashiruddin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;<img src="https://komarev.com/ghpvc/?username=Kashiruddinshaik&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
+<a href="https://linkedin.com/in/kashiruddin-shaik"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;<a href="https://kashiruddinshaik.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=A78BFA"/></a>&nbsp;<a href="mailto:shaikkashiruddin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;<a href="https://sepsis-prediction-ai.streamlit.app"><img src="https://img.shields.io/badge/Sepsis%20AI-Live%20Demo-00C896?style=for-the-badge&logo=streamlit&logoColor=white"/></a>&nbsp;<img src="https://komarev.com/ghpvc/?username=Kashiruddinshaik&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Open%20to%20Work-Full--Time%20Roles-brightgreen?style=flat-square&labelColor=1a1a2e"/>&nbsp;<img src="https://img.shields.io/badge/Location-Worcester%2C%20MA-7c3aed?style=flat-square&labelColor=1a1a2e"/>&nbsp;<img src="https://img.shields.io/badge/MS%20CS-Clark%20University-orange?style=flat-square&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Open%20to%20Work-Full--Time%20Roles-brightgreen?style=flat-square&labelColor=1a1a2e"/>&nbsp;<img src="https://img.shields.io/badge/Healthcare%20AI-Specialist-7c3aed?style=flat-square&labelColor=1a1a2e"/>&nbsp;<img src="https://img.shields.io/badge/Projects-7%2B%20Built-orange?style=flat-square&labelColor=1a1a2e"/>
 
 </div>
 
@@ -20,13 +20,11 @@
 
 ```yaml
 Name    : Kashiruddin Shaik
-Based   : Natick, MA · USA
-Degree  : MS Computer Science (STEM)
-          Clark University
-Focus   : Machine Learning
+Focus   : Healthcare AI · ML · Full-Stack
+Flagship: Sepsis Prediction · AUC 0.953
+          Trained on 40,336 real ICU patients
 Impact  : Built RL agent that cuts real
           CO2 emissions on live roads
-
 Status  : Available · Let's talk!
 ```
 
@@ -42,7 +40,21 @@ Status  : Available · Let's talk!
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>Global Economic Dashboard</h3>
+      <h3>🏥 Sepsis Early Warning System</h3>
+      <img src="https://img.shields.io/badge/LIVE-00C896?style=for-the-badge&logo=streamlit&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Healthcare%20AI-7c3aed?style=for-the-badge&logo=heart&logoColor=white"/>
+      <p>ICU mortality prediction trained on <strong>40,336 real patients</strong>. XGBoost with SHAP explainability achieving <strong>AUC-ROC 0.953</strong>. Clinician-facing dashboard with real-time risk scoring.</p>
+      <p>
+        <img src="https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logo=xgboost&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SHAP-FF6B6B?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MIMIC--III-00AFAA?style=flat-square"/>
+      </p>
+      <a href="https://sepsis-prediction-ai.streamlit.app"><img src="https://img.shields.io/badge/Live%20App-00C896?style=for-the-badge"/></a>
+      <a href="https://github.com/Kashiruddinshaik/sepsis-prediction-ai"><img src="https://img.shields.io/badge/Source-333?style=for-the-badge&logo=github"/></a>
+    </td>
+    <td align="center" width="50%">
+      <h3>📊 Global Economic Dashboard</h3>
       <img src="https://img.shields.io/badge/LIVE-00C896?style=for-the-badge&logo=streamlit&logoColor=white"/>
       <p>Real-time GDP, inflation & unemployment for 50+ countries with <strong>Prophet AI forecasting</strong> & automated CI/CD pipeline</p>
       <p>
@@ -55,8 +67,21 @@ Status  : Available · Let's talk!
       <a href="https://economic-dashboard-bahf3zb69es2aliamubamr.streamlit.app"><img src="https://img.shields.io/badge/Live%20App-00C896?style=for-the-badge"/></a>
       <a href="https://github.com/kashiruddinshaik/economic-dashboard"><img src="https://img.shields.io/badge/Source-333?style=for-the-badge&logo=github"/></a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
-      <h3>Adaptive Traffic RL Agent</h3>
+      <h3>🔍 Fraud Detection API</h3>
+      <img src="https://img.shields.io/badge/API-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+      <p>Real-time financial transaction fraud detection REST API. Sub-millisecond inference with <strong>Swagger docs</strong> and batch prediction support</p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Kashiruddinshaik/fraud-detection-api"><img src="https://img.shields.io/badge/Source-333?style=for-the-badge&logo=github"/></a>
+    </td>
+    <td align="center" width="50%">
+      <h3>🚦 Adaptive Traffic RL Agent</h3>
       <img src="https://img.shields.io/badge/RESEARCH-7c3aed?style=for-the-badge&logo=openai&logoColor=white"/>
       <p>Q-Learning agent dynamically optimizing real traffic signals using live HERE Maps geospatial data. Measurable <strong>CO2 reduction</strong> on real roads</p>
       <p>
@@ -70,7 +95,7 @@ Status  : Available · Let's talk!
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h3>Churn Prediction System</h3>
+      <h3>📉 Churn Prediction System</h3>
       <img src="https://img.shields.io/badge/LIVE-00C896?style=for-the-badge&logo=render&logoColor=white"/>
       <p>Trained on real telecom data. <strong>XGBoost + Random Forest + GridSearchCV</strong> tuning with interactive Streamlit UI deployed live</p>
       <p>
@@ -83,7 +108,7 @@ Status  : Available · Let's talk!
       <a href="https://github.com/kashiruddinshaik/churn-prediction-system"><img src="https://img.shields.io/badge/Source-333?style=for-the-badge&logo=github"/></a>
     </td>
     <td align="center" width="50%">
-      <h3>Restaurant Web Platform</h3>
+      <h3>🍕 Restaurant Web Platform</h3>
       <img src="https://img.shields.io/badge/PRODUCTION-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white"/>
       <p>Full-stack production site with real customers — digital menus, ordering flow, seasonal campaigns. <strong>Built & maintained solo</strong></p>
       <p>
@@ -106,26 +131,26 @@ Status  : Available · Let's talk!
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,react,nodejs,fastapi,js,html,css,git,github,postgres,mysql,vscode&theme=dark&perline=13"/>
+<img src="https://skillicons.dev/icons?i=python,django,react,nodejs,fastapi,js,html,css,git,github,postgres,mysql,tensorflow,vscode&theme=dark&perline=14"/>
 
 <br/><br/>
 
-**ML & Data Science**
+**AI & Healthcare ML**
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=xgboost&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Visualization & Deployment**
+
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-**Tools & DevOps**
-
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 </div>
 
