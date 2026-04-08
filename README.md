@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:24243e,60:302b63,100:0f0c29&height=240&section=header&text=Hi%20There!%20I'm%20Kashir&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Healthcare%20AI%20%E2%80%A2%20ML%20Engineer&descSize=20&descAlignY=60&descFontColor=a78bfa"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=55&lines=Healthcare+AI+%7C+Sepsis+Prediction+%7C+AUC+0.953;ML+Engineer+%7C+RL+Researcher+%7C+XGBoost;Full-Stack+Developer+%7C+Django+%7C+React;Data+Scientist+%7C+Forecasting+%7C+SHAP;Building+Software+That+Actually+Ships" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=55&lines=Sepsis+Prediction+%7C+AUC+0.953;ML+Engineer+%7C+RL+Researcher+%7C+XGBoost;Full-Stack+Developer+%7C+Django+%7C+React;Data+Scientist+%7C+Forecasting+%7C+SHAP;Building+Software+That+Actually+Ships" alt="Typing SVG"/>
 
 <br/>
 
